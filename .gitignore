@@ -1,0 +1,4 @@
+# Environment folder
+env/
+
+*/*.out
