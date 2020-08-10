@@ -2,3 +2,5 @@
 env/
 
 */*.out
+__pycache__/
+pyelftools/
